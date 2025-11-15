@@ -184,7 +184,6 @@ proxy-groups:
     type: select
 
 rules:
-  - "DOMAIN-SUFFIX,ncbi.nlm.nih.gov,DIRECT"
   - "RULE-SET,private,DIRECT"
   - "RULE-SET,bing,AIGC"
   - "RULE-SET,copilot,AIGC"
