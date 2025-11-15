@@ -3,4 +3,4 @@
 +rules:
   - "DOMAIN-SUFFIX,baidu.com,DIRECT"
   - "DOMAIN-SUFFIX,tencent.com,DIRECT"
- - "DOMAIN-SUFFIX,ncbi.nlm.nih.gov,DIRECT"
+  - "DOMAIN-SUFFIX,ncbi.nlm.nih.gov,DIRECT"
